@@ -1,10 +1,13 @@
+<a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Znsim+Github;Nice+to+meet+you!!" alt="Typing SVG" />
+      </a>
+
 <table style="width: 100%; border: none;">
   <tr>
     <!-- 왼쪽: Typing SVG -->
     <td align="center" style="max-width: 100%">
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Znsim+Github;Nice+to+meet+you!!" alt="Typing SVG" />
-      </a>
+       <h3 align = "center">Znsim's</h3>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Znsim&layout=compact&theme=dark" width="100%"/>
     </td>
     <!-- 오른쪽: BAEKJOON 뱃지 -->
     <td align="center" style="max-width: 100%">
@@ -19,8 +22,6 @@
 
 
 <div align="center">
-        <h3 align = "center">Znsim's</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Znsim&layout=compact&theme=dark" width="100%"/>
         <h3 align="center">Studying</h3>
         <div align="center">  
           <b align="center"> Languages</b>
