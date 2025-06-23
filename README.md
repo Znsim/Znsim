@@ -2,7 +2,7 @@
 <div align="left">
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Znsim&layout=compact"/>
 </div>
-<div align="right">
+<div align="senter">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div>
 <!--
