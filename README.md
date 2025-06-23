@@ -32,6 +32,9 @@
     </tr>
   </table>
   <h3>BAEKJOON</h3>
-      [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=taldkdus1)](https://solved.ac/taldkdus1)
+<a href="https://solved.ac/taldkdus1">
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=taldkdus1" alt="Solved.ac Badge"/>
+</a>
+
 </div>
 
