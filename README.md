@@ -3,7 +3,7 @@
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Znsim&layout=compact"/>
 </div>
 <div align="right">
-  study
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div>
 <!--
 **Znsim/Znsim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
