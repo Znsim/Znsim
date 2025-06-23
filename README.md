@@ -1,8 +1,17 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Znsim+Github;Nice+to+meet+you!!)](https://git.io/typing-svg)
-  <h3>BAEKJOON</h3>
-<a href="https://solved.ac/taldkdus1">
-  <img src="http://mazassumnida.wtf/api/generate_badge?boj=taldkdus1" alt="Solved.ac Badge"/>
-</a>
+<div align="center">
+  <p>
+    <a href="https://git.io/typing-svg" style="display: inline-block; margin-right: 20px;">
+      <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Znsim+Github;Nice+to+meet+you!!" alt="Typing SVG" />
+    </a>
+    <span style="display: inline-block;">
+      <h3>BAEKJOON</h3>
+      <a href="https://solved.ac/taldkdus1">
+        <img src="http://mazassumnida.wtf/api/generate_badge?boj=taldkdus1" alt="Solved.ac Badge" />
+      </a>
+    </span>
+  </p>
+</div>
+
 
 <div align="center">
         <h3 align = "center">Znsim's</h3>
