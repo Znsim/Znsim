@@ -1,13 +1,13 @@
 <table style="width: 100%; border: none;">
   <tr>
     <!-- 왼쪽: Typing SVG -->
-    <td align="center" style="width: 50%;">
+    <td align="center" style="max-width: 100%">
       <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Znsim+Github;Nice+to+meet+you!!" alt="Typing SVG" />
       </a>
     </td>
     <!-- 오른쪽: BAEKJOON 뱃지 -->
-    <td align="center" style="width: 50%;">
+    <td align="center" style="max-width: 100%">
       <h3>BAEKJOON</h3>
       <a href="https://solved.ac/taldkdus1">
         <img src="http://mazassumnida.wtf/api/generate_badge?boj=taldkdus1" alt="Solved.ac Badge" />
@@ -41,7 +41,5 @@
           <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
           </div>
         </div>
-
-
 </div>
 
