@@ -4,6 +4,7 @@
 </a>
 </div>
 
+<div align="center">
 <table style="width: 100%; border: none;">
   <tr>
     <!-- 왼쪽: Typing SVG -->
@@ -20,7 +21,7 @@
     </td>
   </tr>
 </table>
-
+</div>
 
 
 <div align="center">
