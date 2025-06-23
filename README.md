@@ -5,21 +5,13 @@
 </div>
 
 <div align="center">
-<table style="width: 100%; border: none;">
-  <tr>
-    <td align="center" style="max-width: 100%">
        <h3 align = "center">Znsim's</h3>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Znsim&hide_progress=true"/>
-    </td>
     <!-- 오른쪽: BAEKJOON 뱃지 -->
-    <td align="center" style="max-width: 100%">
       <h3>BAEKJOON</h3>
       <a href="https://solved.ac/taldkdus1">
         <img src="http://mazassumnida.wtf/api/generate_badge?boj=taldkdus1" alt="Solved.ac Badge" />
       </a>
-    </td>
-  </tr>
-</table>
 </div>
 
 
