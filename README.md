@@ -1,7 +1,7 @@
 ## Hi there 👋
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
-https://img.shields.io/badge/file%3A%2F%2F%2FC%3A%2FUsers%2Ftladk%2FDownloads%2Fnodedotjs.svg
+<img src = "https://img.shields.io/badge/file%3A%2F%2F%2FC%3A%2FUsers%2Ftladk%2FDownloads%2Fnodedotjs.svg" />
 
 <!--
 **Znsim/Znsim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
