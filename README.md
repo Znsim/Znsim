@@ -5,8 +5,6 @@
       <h3 align="center"> Znsim's Most Used Languages </h3>
       <img align="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Znsim&layout=compact"/>
     </td>
-  </tr>
-  <tr>
     <td>
       <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
     </td>
