@@ -6,6 +6,7 @@
       <img align="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Znsim&layout=compact"/>
     </td>
     <td>
+      <h3 align="center"> Studying</h3>
       <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
     </td>
   </tr>
