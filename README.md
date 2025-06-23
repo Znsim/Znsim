@@ -31,8 +31,10 @@
       </td>
     </tr>
     <tr>
+      <td>
       <h3>BAEKJOON</h3>
-      <img src="http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle}"/>
+        <img src="http://mazassumnida.wtf/api/generate_badge?boj={taldkdus1})](https://solved.ac/{taldkdus1}"/>
+        </td>
     </tr>
   </table>
 
