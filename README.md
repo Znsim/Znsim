@@ -1,4 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Znsim+Github;Nice+to+meet+you!!)](https://git.io/typing-svg)
+  <h3>BAEKJOON</h3>
+<a href="https://solved.ac/taldkdus1">
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=taldkdus1" alt="Solved.ac Badge"/>
+</a>
 
 <div align="center">
         <h3 align = "center">Znsim's</h3>
@@ -23,10 +27,7 @@
           <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
           </div>
         </div>
-  <h3>BAEKJOON</h3>
-<a href="https://solved.ac/taldkdus1">
-  <img src="http://mazassumnida.wtf/api/generate_badge?boj=taldkdus1" alt="Solved.ac Badge"/>
-</a>
+
 
 </div>
 
