@@ -6,7 +6,7 @@
     <tr>
       <!-- 왼쪽 카드 -->
       <td style="width: 50%; padding: 10px; border: none; vertical-align: top;">
-        <h3>Znsim's Most Used Languages</h3>
+        <h3 align = "center">Znsim's</h3>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Znsim&layout=compact&theme=dark" width="100%"/>
       </td>
       <!-- 오른쪽 배지 및 설명 -->
