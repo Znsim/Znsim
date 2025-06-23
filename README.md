@@ -6,8 +6,6 @@
         <h3 align="center">Znsim's Most Used Languages</h3>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Znsim&layout=compact" width="400"/>
       </td>
-
-      <!-- 오른쪽: Studying + Node.js 뱃지 -->
       <td style="vertical-align: top; width: 400px; padding: 10px; border: none;">
         <h3 align="center">Studying</h3>
         <div align="center">
