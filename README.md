@@ -14,6 +14,8 @@
         <h3>Studying</h3>
         <div align="center">
           <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+          
         </div>
       </td>
     </tr>
