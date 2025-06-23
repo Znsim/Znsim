@@ -9,7 +9,7 @@
   <tr>
     <td align="center" style="max-width: 100%">
        <h3 align = "center">Znsim's</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Znsim&hide_progress=true"/>
     </td>
     <!-- 오른쪽: BAEKJOON 뱃지 -->
     <td align="center" style="max-width: 100%">
