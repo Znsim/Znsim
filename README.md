@@ -30,13 +30,8 @@
         </div>
       </td>
     </tr>
-    <tr>
-      <td raw=2>
-      <h3>BAEKJOON</h3>
-        <img src="http://mazassumnida.wtf/api/generate_badge?boj=taldkdus1)](https://solved.ac/taldkdus1"/>
-        </td>
-    </tr>
   </table>
-
+  <h3>BAEKJOON</h3>
+      [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=taldkdus1)](https://solved.ac/taldkdus1)
 </div>
 
