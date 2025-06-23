@@ -30,6 +30,11 @@
         </div>
       </td>
     </tr>
+    <tr>
+      <h3>BAEKJOON</h3>
+      <img src="http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle}"/>
+    </tr>
   </table>
 
 </div>
+
