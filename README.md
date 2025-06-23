@@ -13,7 +13,7 @@
       <td style="width: 50%; padding: 10px; border: none; vertical-align: top;">
         <h3 align="center">Studying</h3>
         <div align="center">  
-          Languages
+          <b align="center"> Languages</b>
           <div>
           <!-- HTML -->
           <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
