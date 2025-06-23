@@ -7,10 +7,9 @@
 <div align="center">
 <table style="width: 100%; border: none;">
   <tr>
-    <!-- 왼쪽: Typing SVG -->
     <td align="center" style="max-width: 100%">
        <h3 align = "center">Znsim's</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Znsim&layout=compact&theme=dark" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
     </td>
     <!-- 오른쪽: BAEKJOON 뱃지 -->
     <td align="center" style="max-width: 100%">
