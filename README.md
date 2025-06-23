@@ -31,7 +31,7 @@
       </td>
     </tr>
     <tr>
-      <td>
+      <td raw=2>
       <h3>BAEKJOON</h3>
         <img src="http://mazassumnida.wtf/api/generate_badge?boj={taldkdus1})](https://solved.ac/{taldkdus1}"/>
         </td>
