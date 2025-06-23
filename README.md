@@ -13,12 +13,14 @@
       <td style="width: 50%; padding: 10px; border: none; vertical-align: top;">
         <h3 align="center">Studying</h3>
         <div align="center">
+          <div>
           <!-- HTML -->
           <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
           <!--CSS-->
           <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
           <!--JS-->
           <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+          </div>
           <!--React-->
           <img src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
           <!--node.js-->
