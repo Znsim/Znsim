@@ -14,8 +14,8 @@
       </a>
 </div>
 
-<!--
-<div align="center">
+<!---->
+<!--<div align="center">
         <h3 align="center">Studying</h3>
         <div align="center">  
           <b align="center"> Languages</b>
