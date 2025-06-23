@@ -1,7 +1,7 @@
 ## Hi there 👋
-
+<div align="left">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Znsim&layout=compact)
-
+</div>
 <!--
 **Znsim/Znsim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
