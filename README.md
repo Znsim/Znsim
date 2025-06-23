@@ -1,6 +1,8 @@
+<div align="center">
 <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Znsim+Github;Nice+to+meet+you!!" alt="Typing SVG" />
-      </a>
+</a>
+</div>
 
 <table style="width: 100%; border: none;">
   <tr>
