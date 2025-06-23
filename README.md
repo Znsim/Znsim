@@ -1,16 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Znsim+Github;Nice+to+meet+you!!)](https://git.io/typing-svg)
 
 <div align="center">
-
-  <table style="width: 100%; border: none;">
-    <tr>
-      <!-- 왼쪽 카드 -->
-      <td style="width: 50%; padding: 10px; border: none; vertical-align: top;">
         <h3 align = "center">Znsim's</h3>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Znsim&layout=compact&theme=dark" width="100%"/>
-      </td>
-      <!-- 오른쪽 배지 및 설명 -->
-      <td style="width: 50%; padding: 10px; border: none; vertical-align: top;">
         <h3 align="center">Studying</h3>
         <div align="center">  
           <b align="center"> Languages</b>
@@ -31,9 +23,6 @@
           <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
           </div>
         </div>
-      </td>
-    </tr>
-  </table>
   <h3>BAEKJOON</h3>
 <a href="https://solved.ac/taldkdus1">
   <img src="http://mazassumnida.wtf/api/generate_badge?boj=taldkdus1" alt="Solved.ac Badge"/>
