@@ -15,8 +15,9 @@
         </a>
 </div>
 
+<!--언어--> 
 <div>
-        <!--언어--> <h3>Languages</h3>
+        <h3>Languages</h3>
         <!--HTML-->
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
         <!--CSS-->
@@ -27,15 +28,17 @@
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 </div>
 
-<div>
-        <!--DB-->
+<!--DB-->
+<div> <h3>DB</h3>
         <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
 
+<!--Operating System-->
 <div>
-        <!--Operating System--> <h3>Operating System</h3>
+        <h3>Operating System</h3>
         <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
         <!--Design-->
+        <h3> Design</h3>
         <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
         <!--Social-->
         <div align="center">
