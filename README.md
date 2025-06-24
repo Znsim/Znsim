@@ -50,7 +50,7 @@
     </tr>
   </table>
 </div>
-<br/><br/>
+<br/>
 
 <div align="center">
         <!--Social-->
