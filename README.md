@@ -4,17 +4,11 @@
         </a>
 </div>
 
-<h3 align="center">Znsim's Top Languages</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Znsim&hide_progress=true" width="300"/>
-</p>
+## 🔍 Znsim's Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Znsim&hide_progress=true)
 
-<h3 align="center">BAEKJOON</h3>
-<p align="center">
-  <a href="https://solved.ac/taldkdus1">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=taldkdus1" width="200" />
-  </a>
-</p>
+## 💻 BAEKJOON Stats
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=taldkdus1)](https://solved.ac/taldkdus1)
 
 
 
