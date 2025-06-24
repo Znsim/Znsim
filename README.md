@@ -4,23 +4,14 @@
         </a>
 </div>
 
-<div align="center">
-  <table>
-    <tr>
-      <!-- GitHub 언어 통계 -->
-      <td align="center">
+<div align = "center">
         <h3>Znsim's</h3>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Znsim&hide_progress=true" width="300"/>
-      </td>
-      <!-- 백준 뱃지 -->
-      <td align="center">
+        <!--백준-->
         <h3>BAEKJOON</h3>
         <a href="https://solved.ac/taldkdus1">
           <img src="http://mazassumnida.wtf/api/generate_badge?boj=taldkdus1" width="200" />
         </a>
-      </td>
-    </tr>
-  </table>
 </div>
 
 
