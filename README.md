@@ -49,12 +49,20 @@
 </div>
 <br/><br/>
 
-## 🔍 Znsim's Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Znsim&hide_progress=true)
+<h2 align="center">🎴 CARDS</h2>
 
-## 💻 BAEKJOON Stats
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=taldkdus1)](https://solved.ac/taldkdus1)
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Znsim&layout=compact&hide_progress=true&card_width=300" width="400px" />
+    </td>
+    <td>
+      <a href="https://solved.ac/taldkdus1">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=taldkdus1&theme=warm" width="400px" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
