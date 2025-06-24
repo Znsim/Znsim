@@ -4,15 +4,12 @@
         </a>
 </div>
 
-<div align = "center">
-        <h3>Znsim's</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Znsim&hide_progress=true" width="300"/>
-        <!--백준-->
-        <h3>BAEKJOON</h3>
-        <a href="https://solved.ac/taldkdus1">
-          <img src="http://mazassumnida.wtf/api/generate_badge?boj=taldkdus1" width="200" />
-        </a>
-</div>
+## 🔍 Znsim's Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Znsim&hide_progress=true)
+
+## 💻 BAEKJOON Stats
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=taldkdus1)](https://solved.ac/taldkdus1)
+
 
 
 <div align="center">
