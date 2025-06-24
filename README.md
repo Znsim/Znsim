@@ -33,20 +33,6 @@
   <br/><br/>
 
 </div>
-
-<div align="center">
-        <!--Social-->
-                <h2>📬 Contact Me </h2>
-                <!--blog-->
-                  <a href="https://znsim.tistory.com/" target="_blank">
-                    <img src="https://img.shields.io/badge/Blog-Tistory-%23EC654B?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory Blog"/>
-                  </a>
-                <!--Discord-->
-                  <a href="https://discord.gg/5hj8Dd5U" target="_blank">
-                    <img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Invite Badge"/>
-                  </a>
-
-</div>
 <br/><br/>
 
 <h2 align="center">🎴 CARDS</h2>
@@ -64,6 +50,21 @@
       </td>
     </tr>
   </table>
+</div>
+<br/><br/>
+
+<div align="center">
+        <!--Social-->
+                <h2>📬 Contact Me </h2>
+                <!--blog-->
+                  <a href="https://znsim.tistory.com/" target="_blank">
+                    <img src="https://img.shields.io/badge/Blog-Tistory-%23EC654B?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory Blog"/>
+                  </a>
+                <!--Discord-->
+                  <a href="https://discord.gg/5hj8Dd5U" target="_blank">
+                    <img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Invite Badge"/>
+                  </a>
+
 </div>
 
 
