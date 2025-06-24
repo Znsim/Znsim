@@ -15,6 +15,29 @@
         </a>
 </div>
 
+<div>
+        <!--언어--> <h3>Languages</h3>
+        <!--HTML-->
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+        <!--CSS-->
+        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+        <!--JS-->
+        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+        <!--PYTHON-->
+        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+</div>
+<div>
+        <!--Operating System--> <h3>Operating System</h3>
+        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+        <!--Social-->
+        <div align="center">
+  <h3>📬 Contact Me on Discord</h3>
+  <img src="https://img.shields.io/badge/Discord-zn%234569-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  <p>👉 디스코드에서 <strong>zn#4569</strong> 로 친구 요청을 보내주세요!</p>
+</div>
+
+</div>
+
 
 
 
