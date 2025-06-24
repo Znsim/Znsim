@@ -4,7 +4,7 @@
 </a>
 </div>
 
-<div align="center">
+<div>
 
   <span style="display: inline-block; text-align: center; margin: 10px;">
     <h3>Znsim's</h3>
