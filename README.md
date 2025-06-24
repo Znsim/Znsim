@@ -4,23 +4,6 @@
         </a>
 </div>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <strong>📊 Top Languages</strong><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Znsim&hide_progress=true" width="300"/>
-    </td>
-    <td align="center">
-      <strong>💻 BAEKJOON Stats</strong><br/>
-      <a href="https://solved.ac/taldkdus1">
-        <img src="http://mazassumnida.wtf/api/generate_badge?boj=taldkdus1" width="200"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-
 <div align="center">
 
   <h2>🛠 Tech Stack</h2>
@@ -65,6 +48,23 @@
                   </a>
 
 </div>
+
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <strong>📊 Top Languages</strong><br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Znsim&hide_progress=true" width="300"/>
+    </td>
+    <td align="center">
+      <strong>💻 BAEKJOON Stats</strong><br/>
+      <a href="https://solved.ac/taldkdus1">
+        <img src="http://mazassumnida.wtf/api/generate_badge?boj=taldkdus1" width="200"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 
