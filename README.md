@@ -26,6 +26,7 @@
         <!--PYTHON-->
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 </div>
+
 <div>
         <!--DB-->
         <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -35,7 +36,7 @@
         <!--Operating System--> <h3>Operating System</h3>
         <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
         <!--Design-->
-        <img src = "" />
+        <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
         <!--Social-->
         <div align="center">
                 <h3>📬 Contact Me </h3>
