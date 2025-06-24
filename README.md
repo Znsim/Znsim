@@ -36,8 +36,6 @@
                   <a href="https://znsim.tistory.com/" target="_blank">
                     <img src="https://img.shields.io/badge/Blog-Tistory-%23EC654B?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory Blog"/>
                   </a>
-
-
                 <!--Discord-->
                 <img src="https://img.shields.io/badge/Discord-zn%234569-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
                 <p>👉 디스코드에서 <strong>zn#4569</strong> 로 친구 요청을 보내주세요!</p>
