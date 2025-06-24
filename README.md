@@ -34,7 +34,6 @@
 
 </div>
 
-<hr/>
 <div align="center">
         <!--Social-->
                 <h2>📬 Contact Me </h2>
@@ -48,7 +47,6 @@
                   </a>
 
 </div>
-<hr />
 
 <table align="center">
   <tr>
