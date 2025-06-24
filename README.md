@@ -51,8 +51,8 @@
 
 <h2 align="center">🎴 CARDS</h2>
 
-<table >
-  <tr arlign="center">
+<table arlign="center" >
+  <tr >
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Znsim&layout=compact&hide_progress=true&card_width=300" width="400px" />
     </td>
