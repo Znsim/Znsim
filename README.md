@@ -51,19 +51,20 @@
 
 <h2 align="center">🎴 CARDS</h2>
 
-<table arlign="center" >
-  <tr >
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Znsim&layout=compact&hide_progress=true&card_width=300" width="400px" />
-    </td>
-    <td>
-      <a href="https://solved.ac/taldkdus1">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=taldkdus1&theme=warm" width="400px" />
-      </a>
-    </td>
-  </tr>
-</table>
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Znsim&layout=compact&hide_progress=true&card_width=300" width="350px" />
+      </td>
+      <td align="center" valign="top">
+        <a href="https://solved.ac/taldkdus1">
+          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=taldkdus1&theme=warm" width="350px" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 
