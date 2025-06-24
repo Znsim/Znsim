@@ -37,13 +37,11 @@
                     <img src="https://img.shields.io/badge/Blog-Tistory-%23EC654B?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory Blog"/>
                   </a>
                 <!--Discord-->
-                <div align="center">
                   <a href="https://discord.gg/5hj8Dd5U" target="_blank">
                     <img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Invite Badge"/>
                   </a>
-</div>
-
         </div>
+
 </div>
 
 
