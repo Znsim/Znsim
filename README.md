@@ -54,10 +54,10 @@
 <div align="center">
   <table style="border: none;">
     <tr>
-      <td align="center" style="border: none;">
+      <td align="center" valign="top" style="border: none;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Znsim&layout=compact&hide_progress=true&card_width=300" width="350px" />
       </td>
-      <td align="center" style="border: none;">
+      <td align="center" valign="top" style="border: none;">
         <a href="https://solved.ac/taldkdus1">
           <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=taldkdus1&theme=warm" width="350px" />
         </a>
