@@ -4,9 +4,7 @@
         </a>
 </div>
 
-## 🎯 Znsim's Summary
-
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <strong>📊 Top Languages</strong><br/>
