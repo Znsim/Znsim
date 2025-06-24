@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <br/>
+  <br/><br/>
 
   <!-- Frameworks, Platforms and Libraries -->
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -37,7 +37,6 @@
 
   <!-- DB -->
   <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
   <br/>
 
   <!-- OS -->
@@ -46,7 +45,6 @@
   <br/>
 
   <!-- Design -->
-  <h3>( Design )</h3>
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 
 </div>
