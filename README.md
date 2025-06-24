@@ -59,7 +59,7 @@
       </td>
       <td align="center" valign="top" style="border: none;">
         <a href="https://solved.ac/taldkdus1">
-          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=taldkdus1&theme=warm" width="350px" />
+          <img src="http://mazassumnida.wtf/api/generate_badge?boj=taldkdus1" width="350px" />
         </a>
       </td>
     </tr>
