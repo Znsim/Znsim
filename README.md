@@ -60,7 +60,7 @@
 </div>
 
 
-<div align="centㄷㄱ">
+<div align="center">
         <!--Social-->
                 <h2>📬 Contact Me </h2>
                 <!--blog-->
