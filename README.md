@@ -33,7 +33,6 @@
   <br/><br/>
 
 </div>
-<br/><br/>
 
 <h2 align="center">🎴 CARDS</h2>
 
